@@ -19,6 +19,11 @@ Using 10k rows
 |CNN|84%|
 |RNN|84%|
 
+Using 30k rows
+| Model | Accuracy |
+|-------|----------|
+|cardiffnlp/twitter-roberta-base-sentiment-latest| 94%|
+
 Using entire data
 | Model | Accuracy |
 |-------|----------|
